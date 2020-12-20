@@ -1,0 +1,14 @@
+body {
+  background-image: url("cool-background.png");
+  background-position: center;
+  background-size: cover;
+}
+.navbar,
+.navbar-brand {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.2rem;
+}
+/* 
+#formBody {
+  width: 50%;
+} */
